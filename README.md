@@ -1,4 +1,7 @@
 # Detecting animal body poses with Vision
+
+[Source](https://developer.apple.com/documentation/vision/detecting_animal_body_poses_with_vision)
+
 Draw the skeleton of an animal by using Vision's capability to detect animal body poses.
 
 ## Overview
